@@ -1,4 +1,7 @@
 simulation waveform for bitonic sorter 
-![Screenshot from 2023-11-02 15-21-02](https://github.com/akashravibhat/bitonic_sorter/assets/126980978/4389efff-6ca9-408a-a66e-d256f05ea111)
+![waveform 1](https://github.com/akashravibhat/bitonic_sorter/assets/126980978/8fb63f90-344a-4760-b46c-1805ed2965b9)
+![waveform2](https://github.com/akashravibhat/bitonic_sorter/assets/126980978/bb4527c8-ab50-44e0-a7e2-451a1ead0235)
+
+
 code coverage for bitonic soter
-![Screenshot from 2023-11-02 14-57-41](https://github.com/akashravibhat/bitonic_sorter/assets/126980978/9e94f922-1521-47e9-b397-1916b5a0a2fe)
+![code_coverage](https://github.com/akashravibhat/bitonic_sorter/assets/126980978/b4642324-8f0a-4229-a5f1-b1e01006d83b)
